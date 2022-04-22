@@ -1,6 +1,9 @@
 # i_am_rich
 
 A new Flutter project.
+A Flow Chart of the program
+![flow chart](https://user-images.githubusercontent.com/72335206/164756564-e1e2126b-3f1e-496c-9f66-b3c84ccd7117.png)
+
 
 ## Getting Started
 
